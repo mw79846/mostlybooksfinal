@@ -1,0 +1,43 @@
+body{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+    background-color: #26330E;
+    background-image:url("../image/contactpic.gif") 
+}
+form{
+    color: #FFEACC;
+    font-size: 20px;
+    list-style-type: none;
+    font-family:madelinette, sans-serif;
+    position: absolute; 
+    top: 270px;
+    left: 370px;
+} 
+
+input{
+    color:#4F0B09;
+    font-weight: 400;
+    list-style-type: none;
+    font-family:madelinette, sans-serif;
+    background-color: #FFEACC;
+}
+
+h1{
+    font-family: boucherie-cursive, sans-serif;
+    color: #FFEACC; 
+    font-weight: 400;
+    font-size: 200px;
+    position: absolute;
+    margin-top: -50px;
+    left: 300px;
+    top: -90px;
+
+}
+
+
+
+
+
+

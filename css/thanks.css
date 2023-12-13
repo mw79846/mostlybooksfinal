@@ -1,0 +1,19 @@
+body{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+    background-color: #26330E;
+    background-image:url("../image/contactpic.gif") 
+}
+
+p{
+    font-family: boucherie-cursive, sans-serif;
+    color: #FFEACC; 
+    font-weight: 400;
+    font-size: 100px;
+    position: absolute;
+    margin-top: -40px;
+    left: 200px;
+    top: 200px;
+}

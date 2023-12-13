@@ -1,0 +1,125 @@
+body{
+    background-repeat: repeat;
+    background-position: center;
+    background-size:100%;
+    min-height: 30% !important;
+    background-color: #26330E;
+    background-image:url("../image/paper-menu.gif");
+    height: 1000px;
+}
+.topnav ul li{
+    color: #FFEACC;
+    font-size: 30px;
+    list-style-type: none;
+    font-family:madelinette, sans-serif;
+    float: right;
+    text-decoration: none;
+}    
+
+.topnav ul li a{
+    color: #faebd7;
+    text-decoration: none;
+    position: relative;
+    float: left;
+    margin: 10px;
+    left: -300px;
+    bottom: 800px;
+
+}
+
+.topnav a:link{
+    color:#FFEACC;
+}
+
+.topnav a:hover{
+    color:#4F0B09;
+}
+
+.topnav a:link{
+    text-decoration: none;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  
+  .phone {
+      position: absolute;
+      color: #FFEACC;
+      font-size: 40px;
+      list-style-type: none;
+      font-family:madelinette, sans-serif;
+      float: left;
+      text-decoration: none;
+      top: 30%;
+      right: 40%;
+    }
+    
+    .email {
+      position: absolute;
+      color: #FFEACC;
+      font-size: 40px;
+      list-style-type: none;
+      font-family:madelinette, sans-serif;
+      float: left;
+      text-decoration: none;
+      top: 50%;
+      right: 30%;
+  
+    }
+    
+    .subscribe {
+      position: absolute;
+      color: #FFEACC;
+      font-size: 40px;
+      list-style-type: none;
+      font-family:madelinette, sans-serif;
+      float: left;
+      text-decoration: none;
+      top: 75%;
+      right: 40%;
+    }
+    .subscribe a{
+      color: #faebd7;
+      text-decoration: none;
+  }
+  
+  .subscribe a:link{
+      color:#FFEACC;
+      text-decoration: none !important;
+  }    
+  .subscribe a:hover{
+      color:#4F0B09;
+  }
+  
+  .subscribe a:visited{
+      text-decoration: none !important;
+  }
+    
+    .contact{
+      position: absolute;
+      color:#FFEACC;
+      font-size: 200px;
+      font-family: boucherie-cursive, sans-serif;
+      font-weight: 400;
+      font-style: normal;
+      font-size: 170px;
+      float: left;
+      top: -5%;
+      right: 25%;
+    }
+    
+    .centered {
+      position: relative;
+      top: 1000px;
+      left: 50%;
+      transform: translate(-50%, -50%);
+    }
+  
+
+
+
+
+

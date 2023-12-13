@@ -1,0 +1,96 @@
+/*STYLESHEET FOR index.HTML*/
+
+body{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+    background-color: #26330E;
+    background-image:url("../image/book.gif")  
+}
+
+
+
+h1{
+    font-family: boucherie-cursive, sans-serif;
+    color: #FFEACC; 
+    font-weight: 400;
+    font-style: normal;
+    font-size: 140px;
+	text-decoration: none;
+    position: fixed;
+    float: left;
+    left: 325px;
+}
+
+.topnav ul li{
+    color: #FFEACC;
+    font-size: 40px;
+    list-style-type: none;
+    font-family:madelinette, sans-serif;
+    float: right;
+}    
+
+.topnav ul li a{
+    color: antiquewhite;
+    text-decoration: none;
+    position: relative;
+    top: -10px;
+    right: 270px;
+    margin: 40px;
+    
+}
+
+.bottomnav ul li{
+    color: #FFEACC;
+    font-size: 40px;
+    list-style-type: none;
+    font-family: madelinette, sans-serif;
+    float: left;
+}
+
+.bottomnav ul li a{
+    color: #FFEACC;
+    text-decoration: none;
+    position: relative;
+    bottom: -500px;
+    left: 360px;
+    margin: 30px;
+}
+
+
+.topnav a:link{
+    color:#FFEACC;
+}
+
+.topnav a:hover{
+    color:#4F0B09;
+}
+
+.topnav a:link{
+    text-decoration: none;
+}
+
+.bottomnav a:link{
+    color:#FFEACC;
+}
+
+.bottomnav a:hover{
+    color:#4F0B09;
+}
+
+.bottomnav a:link{
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
